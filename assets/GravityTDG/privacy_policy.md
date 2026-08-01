@@ -2,7 +2,7 @@
 
 _Last updated: August 1, 2026_
 
-Gravity TD: Orbital Rescue ("the app") is a single-player game published by Daniel Marin. There are
+Gravity TD: Orbital Rescue ("the app") is a single-player game published by Zandaulion. There are
 no accounts, no sign-in, no analytics and no advertising.
 
 ## Data collection
