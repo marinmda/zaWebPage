@@ -50,4 +50,4 @@ If a future version of the app changes any of the above, this policy will be upd
 
 ## Contact
 
-Questions about this policy: marinmda@gmail.com
+Questions about this policy: zandaulion@gmail.com
